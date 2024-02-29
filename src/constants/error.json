@@ -1,0 +1,156 @@
+{
+    "E-10001": {
+      "error_key": "invalid_login_credential",
+      "Type": "Field level",
+      "error_msg": "The entered password is incorrect. Please try again"
+    },
+    "E-10002": {
+      "error_key": "otp_ limit_exceed",
+      "Type": "Field level",
+      "error_msg": "OTP limit exceeded. Please login again"
+    },
+    "E-10003": {
+      "error_key": "invalid_access_token",
+      "Type": "Generic",
+      "error_msg": "Invalid user"
+    },
+    "E-10004": {
+      "error_key": "invalid_auth_code",
+      "Type": "Field level",
+      "error_msg": "Invalid Verification Code provided, please try again"
+    },
+    "E-10005": {
+      "error_key": "auth_code_expire",
+      "Type": "Field level",
+      "error_msg": "Your OTP is expired. Please click on resend to generate new OTP."
+    },
+    "E-10006": {
+      "error_key": "email_already_exist",
+      "Type": "Field level",
+      "error_msg": "Registration: Email already registered."
+    },
+    "E-10007": {
+      "error_key": "invalid_password_rule",
+      "Type": "Field level",
+      "error_msg": "Given"
+    },
+    "E-10008": {
+      "error_key": "invalid_email",
+      "Type": "Field level",
+      "error_msg": "Email id entered is not valid"
+    },
+    "E-10009": {
+      "error_key": "invalid_mobile_no",
+      "Type": "Field level",
+      "error_msg": "Mobile number have less than 10 digits."
+    },
+    "E-10010": {
+      "error_key": "Inactive_country_selected",
+      "Type": "Field level",
+      "error_msg": "Invalid country"
+    },
+    "E-10011": {
+      "error_key": "missing_mandatoy_fields",
+      "Type": "Generic",
+      "error_msg": "Fields required"
+    },
+    "E-10012": {
+      "error_key": "invalid_country_code",
+      "Type": "Field level",
+      "error_msg": "Country code you have entered is invalid"
+    },
+   
+    "E-10013": {
+      "error_key": "email_not_exist",
+      "Type": "Generic",
+      "error_msg": "An account with the entered email cannot be found. Please re-enter your email and try again."
+    },
+    "E-10014": {
+      "error_key": "both_password_not_match",
+      "Type": "Field level",
+      "error_msg": "Passwords entered do not match"
+    },
+    "E-10015": {
+      "error_key": "access_token_expire",
+      "Type": "Generic",
+      "error_msg": "Your session has timed out. \n You will be redirected to the login screen"
+    },
+    "E-10016": {
+      "error_key": "invalid_pin_code",
+      "error_msg": "Pin code is not valid."
+    },
+    "E-10017": {
+      "error_key": "invalid_request",
+      "error_msg": "Invalid request!"
+    },
+    "E-10018": {
+      "error_key": "serialiser_validation",
+      "error_msg": "Validation failed."
+    },
+    "E-10019": {
+      "error_key": "internal_server",
+      "error_msg": "Internal server error, please try again after sometime."
+    },
+   "E-10020": {
+      "error_key": "empty_country",
+      "Type": "Field level",
+      "error_msg": "Please select country"
+    },
+    "E-10021": {
+      "error_key": "empty_otp",
+      "Type": "Field level",
+      "error_msg": "Please enter the otp ."
+    },
+    "E-10022": {
+      "error_key": "empty_phone",
+      "Type": "Field level",
+      "error_msg": "Please enter your phone number"
+    },
+    "E-10023": {
+      "error_key": "verify_mobile",
+      "Type": "Field level",
+      "error_msg": "Please verify your mobile number"
+    },
+   
+    "E-10024": {
+      "error_key": "empty_password",
+      "Type": "Field level",
+      "error_msg": "Please enter your password"
+    },
+    "E-10025": {
+      "error_key": "empty_new_passwrod",
+      "Type": "Field level",
+      "error_msg": "Please enter the new password"
+    },
+   "E-10026": {
+      "error_key": "js_error",
+      "Type": "Generic",
+      "error_msg": "Oops! Something went wrong. Please try again later."
+    },
+   "E-10027": {
+      "error_key": "otp_req_for_sending",
+      "Type": "Field level",
+      "error_msg": "Please enter the OTP sent to your registered email and mobile number"
+    },
+    "E-10028": {
+      "error_key": "email_required",
+      "Type": "Field level",
+      "error_msg": "Email is required"
+    },
+    "E-10029": {
+      "error_key": "password_required",
+      "Type": "Field level",
+      "error_msg": "Password is required"
+    },
+    "E-10030": {
+      "error_key": "confirm_pass_required",
+      "Type": "Field level",
+      "error_msg": "Please re-enter the password"
+    },
+    "E-10031": {
+      "error_key": "wrong_otp",
+      "Type": "Field level",
+      "error_msg": "Invalid Otp"
+    }
+  
+}
